@@ -64,8 +64,8 @@
         </style>
     </head>
     <body>
-        <h1 style="color: #EF7F1A;"> Angel Miguel S&iacute;nchez Bravo</h1><br/>
-        
+        <h1 style="color: #EF7F1A;"> Angel Miguel S&aacute;nchez Bravo</h1><br/>
+
         <div class="flex-center position-ref full-height">
             @if (Route::has('login'))
                 <div class="top-right links">
